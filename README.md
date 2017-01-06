@@ -8,7 +8,7 @@ This program will **take a number of decimal numbers** (determined by the user) 
 2. If one enters a whole number the program will make it a decime by adding a (.0).
 
 ## How to Run it?
-1. First, run [GetRounded](http://cpp.sh/2jsnn) 
+1. First, run [GetRounded](http://cpp.sh/4zoyz) 
 2. Then, just enjoy it and have fun!
 
 # [Return to Main Screen](https://speedmirage.github.io)
