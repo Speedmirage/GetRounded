@@ -11,4 +11,7 @@ This program will **take a number of decimal numbers** (determined by the user) 
 1. First, run [GetRounded](http://cpp.sh/4zoyz) 
 2. Then, just enjoy it and have fun!
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 # [Return Home](https://speedmirage.github.io)
